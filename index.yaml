@@ -1,7 +1,7 @@
 apiVersion: v1
 entries:
-  harbor:
-  - appVersion: 1.8.2
+  harbor: #match versions everywhere for testing
+  - appVersion: 1.0.0
     created: "2019-08-16T18:15:51.742168+08:00"
     description: An open source trusted cloud native registry that stores, signs,
       and scans content
@@ -24,4 +24,4 @@ entries:
     - https://github.com/goharbor/harbor-helm
     urls:
     - harbor-1.0.0.tgz
-    version: 1.1.2
+    version: 1.0.0
