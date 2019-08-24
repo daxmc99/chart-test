@@ -22,6 +22,6 @@ entries:
     sources:
     - https://github.com/goharbor/harbor
     - https://github.com/goharbor/harbor-helm
-    urls:
-    - harbor-1.0.0.tgz
+    urls: # use my sql chart since its smaller
+    - mysql-1.0.0.tgz
     version: 1.0.0
