@@ -20,5 +20,5 @@ entries:
       name: aisuko
       name: mysqlha
       urls:
-        - mysql-0.8.0.tgz
+        - mysqlha-0.8.0.tgz
       version: 0.8.0
